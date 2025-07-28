@@ -1,3 +1,4 @@
+// Datos simulados para pisos, aulas y horarios
 const pisos = {
     "Piso 1": ["S-101", "S-102", "S-103"],
     "Piso 2": ["S-201", "S-202"],
@@ -13,7 +14,6 @@ const ocupaciones = {
     "S-102": {"9:00": "Prof. Pérez - Historia"},
     "S-302": {"9:30": "Prof. Gómez - Inglés"},
     "S-201": {"10:00": "Prof. Gómez - Biología"},
-    "Salon Actos": {"10:30": "Prof. López - Matemática"},
 };
 
 const tabla = document.getElementById("tablaAulas");
