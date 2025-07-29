@@ -67,7 +67,7 @@ table {
     border-collapse: collapse;
     background-color: white;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    transition: transform 1s ease; /* Transición suave */
+    transition: transform 1s ease;
 }
 
 th, td {
